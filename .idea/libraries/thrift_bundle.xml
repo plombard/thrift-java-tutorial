@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="thrift-bundle">
+    <CLASSES>
+      <root url="jar:///opt/thrift/lib/java/build/lib/junit-4.4.jar!/" />
+      <root url="jar:///opt/thrift/lib/java/build/lib/commons-lang-2.5.jar!/" />
+      <root url="jar:///opt/thrift/lib/java/build/lib/slf4j-api-1.5.8.jar!/" />
+      <root url="jar:///opt/thrift/lib/java/build/lib/servlet-api-2.5.jar!/" />
+      <root url="jar:///opt/thrift/lib/java/build/lib/slf4j-log4j12-1.5.8.jar!/" />
+      <root url="jar:///opt/thrift/lib/java/build/lib/log4j-1.2.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
